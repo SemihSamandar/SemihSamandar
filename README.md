@@ -23,32 +23,19 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,apple,react,js,ts,python,firebase,git,github,xcode,vscode,figma&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,react,js,ts,python,firebase,git,github,vscode,figma&perline=12" alt="Tech stack" />
 </p>
 
 ## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/SemihSamandar/ShopList">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemihSamandar&repo=ShopList&theme=tokyonight&hide_border=true" alt="ShopList" />
-  </a>
-  <a href="https://github.com/SemihSamandar/GestureRecognizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemihSamandar&repo=GestureRecognizer&theme=tokyonight&hide_border=true" alt="GestureRecognizer" />
-  </a>
-  <a href="https://github.com/SemihSamandar/react-native-bookworm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemihSamandar&repo=react-native-bookworm&theme=tokyonight&hide_border=true" alt="react-native-bookworm" />
-  </a>
-  <a href="https://github.com/SemihSamandar/ChatBotWithOpenAIAssistans">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SemihSamandar&repo=ChatBotWithOpenAIAssistans&theme=tokyonight&hide_border=true" alt="ChatBotWithOpenAIAssistans" />
-  </a>
-</p>
+| Project | Tech | About |
+|---|---|---|
+| [ShopList](https://github.com/SemihSamandar/ShopList) | Swift | Shopping list app for iOS |
+| [GestureRecognizer](https://github.com/SemihSamandar/GestureRecognizer) | Swift | Playing with iOS gesture recognizers |
+| [react-native-bookworm](https://github.com/SemihSamandar/react-native-bookworm) | React Native | Book tracking mobile app |
+| [ChatBotWithOpenAIAssistans](https://github.com/SemihSamandar/ChatBotWithOpenAIAssistans) | Python | Chatbot built on the OpenAI Assistants API with custom function calling |
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SemihSamandar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihSamandar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=SemihSamandar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
