@@ -59,9 +59,3 @@
 - [AlertProject](https://github.com/SemihSamandar/AlertProject) — sign-up form with `UIAlertController`
 
 </details>
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=SemihSamandar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
