@@ -35,18 +35,18 @@
 
 | Project | Platform | About |
 |---|---|---|
-| **Nami** | iOS · Android | All-in-one AI assistant — GPT, Claude, Gemini, Grok and more in one app with a single credit-based subscription. *(Expo + Convex)* |
-| **bilemio** | iOS | Three daily Turkish word & trivia puzzles, the same for everyone: Ekle, Beşlik, Abece. *(SwiftUI)* |
+| [**Nami**](https://github.com/SemihSamandar/nami.public) | iOS · Android | All-in-one AI assistant — GPT, Claude, Gemini, Grok and more in one app with a single credit-based subscription. *(Expo + Convex)* · [nami.chat](https://nami.chat/) · [App Store](https://apps.apple.com/app/id6749753781) · [Google Play](https://play.google.com/store/apps/details?id=chat.nami) |
+| [**bilemio**](https://github.com/SemihSamandar/bilemio.public) | iOS | Three daily Turkish word & trivia puzzles, the same for everyone: Ekle, Beşlik, Abece. *(SwiftUI)* |
 | **InkNotes** | iPadOS | Handwritten notes and PDF annotation with Apple Pencil. *(SwiftUI + PencilKit)* |
-| [**allio**](https://github.com/SemihSamandar/allio.public) | Web | One app for all your AI agents — connect MCP servers, create tasks and let custom bots run on schedule. |
-| **seyr** | Web | Behavior analytics and product recommendations, embedded in any site with a single line. |
+| [**allio**](https://github.com/SemihSamandar/allio.public) | Mobile · Web | One app for all your AI agents — connect MCP servers, create tasks and let custom bots run on schedule. · [Website](https://allio.semihsamandar.com/) |
+| [**seyr**](https://github.com/SemihSamandar/seyr.public) | Web | Behavior analytics and product recommendations, embedded in any site with a single line. · [seyr.io](https://seyr.io/) |
 
 ## 🚀 Open Source
 
 | Project | Tech | About |
 |---|---|---|
 | [QRAtt](https://github.com/SemihSamandar/QRAtt) | JavaScript | Chrome extension that watches a lecture tab and auto-joins attendance when a QR code appears |
-| [ChatBotWithOpenAIAssistans](https://github.com/SemihSamandar/ChatBotWithOpenAIAssistans) | Python | Chatbot on the OpenAI Assistants API with custom function calling |
+| [AI CRM Chatbot](https://github.com/SemihSamandar/ChatBotWithOpenAIAssistans) | Python | OpenAI Assistant + RAG sales chatbot that files every lead into an Airtable CRM |
 | [ShopList](https://github.com/SemihSamandar/ShopList) | Swift | Shopping list app for iOS built with SwiftUI |
 | [react-native-bookworm](https://github.com/SemihSamandar/react-native-bookworm) | React Native | Book tracking mobile app |
 | [project-base-ytb](https://github.com/SemihSamandar/project-base-ytb) | Node.js | Backend starter with Express and EJS |
