@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Semih 👋</h1>
+<h1 align="center">I'm Semih 👋</h1>
 
 <p align="center">
 <a href="https://github.com/SemihSamandar">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Mobile+Developer+%40witetech;Swift+%7C+SwiftUI+%7C+UIKit;React+Native+%2B+Expo;Building+AI-powered+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Developer+%E2%80%94+mostly+Mobile+%26+Web" alt="Typing SVG" />
 </a>
 </p>
 
