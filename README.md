@@ -14,7 +14,7 @@
 
 <img align="right" width="400" alt="Coding at night" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### 📱 I build apps for iOS and mobile.
+### 💻 I'm a Full-Stack Software Developer.
 
 - 💼 &nbsp;Mobile Developer at **@witetech**, based in Istanbul.
 - 🔭 &nbsp;Building native iOS/iPadOS apps with **SwiftUI** and cross-platform apps with **React Native + Expo**.
