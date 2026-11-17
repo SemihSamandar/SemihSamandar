@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/SemihSamandar">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Developer+%E2%80%94+mostly+Mobile+%26+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Software+Developer+%E2%80%94+mostly+Mobile+%26+Web" alt="Typing SVG" />
 </a>
 </p>
 
